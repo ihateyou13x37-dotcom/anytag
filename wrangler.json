@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "anytag",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "fa72051d-f840-44bd-a2ae-b890e620e790",
+			"database_name": "AnYTaG"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
